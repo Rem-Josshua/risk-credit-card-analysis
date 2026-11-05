@@ -1,0 +1,15 @@
+dimension,segment,customers,default_rate_pct,share_of_defaults_pct
+age_band,<25,2685,27.19,11.0
+age_band,55+,1053,26.69,4.23
+age_band,45-54,4233,23.93,15.27
+age_band,35-44,9018,21.86,29.7
+age_band,25-34,13011,20.3,39.8
+education,High school,4917,25.16,18.64
+education,University,14030,23.73,50.18
+education,Graduate school,10585,19.23,30.68
+education,Others/Unknown,468,7.05,0.5
+marital_status,Others/Unknown,377,23.61,1.34
+marital_status,Married,13659,23.47,48.31
+marital_status,Single,15964,20.93,50.35
+sex,Male,11888,24.17,43.29
+sex,Female,18112,20.78,56.71

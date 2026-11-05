@@ -1,0 +1,4 @@
+risk_tier,customers,pct_of_customers,default_rate_pct,pct_of_defaults,lift
+High,3130,10.43,69.55,32.81,3.14
+Medium,8151,27.17,24.29,29.84,1.1
+Low,18719,62.4,13.24,37.36,0.6

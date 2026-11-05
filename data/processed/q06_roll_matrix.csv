@@ -1,0 +1,5 @@
+from_state,0_Current,1_One month late,2_Two months late,3_Three+ months late
+0_Current,88.94,7.18,3.88,0.0
+1_One month late,0.0,100.0,0.0,0.0
+2_Two months late,9.98,42.58,40.51,6.93
+3_Three+ months late,11.39,31.47,17.6,39.54

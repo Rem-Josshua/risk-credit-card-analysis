@@ -1,0 +1,13 @@
+from_state,to_state,customers,pct_of_from_state
+0_Current,0_Current,123723,93.88
+0_Current,1_One month late,1860,1.41
+0_Current,2_Two months late,6209,4.71
+1_One month late,1_One month late,34,100.0
+2_Two months late,0_Current,4130,25.34
+2_Two months late,1_One month late,1676,10.28
+2_Two months late,2_Two months late,9460,58.05
+2_Two months late,3_Three+ months late,1031,6.33
+3_Three+ months late,0_Current,200,10.66
+3_Three+ months late,1_One month late,152,8.1
+3_Three+ months late,2_Two months late,529,28.18
+3_Three+ months late,3_Three+ months late,996,53.06

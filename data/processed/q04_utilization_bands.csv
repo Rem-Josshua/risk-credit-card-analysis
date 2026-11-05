@@ -1,0 +1,6 @@
+utilization_band,customers,default_rate_pct
+0. No balance,2598,24.75
+1. Under 30%,12194,16.93
+2. 30-59%,4307,23.19
+3. 60-89%,4851,27.58
+4. 90%+,6050,26.3
